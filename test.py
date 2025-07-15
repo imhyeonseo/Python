@@ -1,4 +1,4 @@
-from int import a
-import int
+from gay import a
+import gay
 
 print(a)
